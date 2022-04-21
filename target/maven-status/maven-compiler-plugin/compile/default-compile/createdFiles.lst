@@ -1,0 +1,4 @@
+com\emergentes\controlador\CategoriaController.class
+com\emergentes\controlador\ProductoController.class
+com\emergentes\modelo\Libro.class
+com\emergentes\modelo\Categoria.class
